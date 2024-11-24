@@ -1,3 +1,4 @@
+<img alt="Coding" width="100%" height=350 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Swam+Yi+Phyo(Fish).;Welcome+to+my+Github+profile!;Remember%2C+every+bit+of+effort+counts!)](https://git.io/typing-svg)
 
 ### 💻 Technologies and Tools:
