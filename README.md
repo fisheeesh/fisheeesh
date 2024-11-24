@@ -5,7 +5,7 @@
 # 💻 Technologies and Tools:
 
 <div align="left"><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,java,kotlin,firebase,vite,git,github,vscode,androidstudio,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,java,kotlin,dart,flutter,firebase,vite,git,github,vscode,androidstudio,postman,vercel,netlify,figma" />
 </div>
 
 # 📊 My GitHub Stats:
@@ -14,8 +14,12 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisheeesh&layout=compact&langs_count=7&theme=one_dark_pro"/>
 </div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/fisheeesh/fisheeesh/output/github-snake-dark.svg"/>
+</div>
     
-# 💬 Contact:
+# 🌐 Connect With Me:
 
 <div> 
     <a style="text-decoration: none" href="mailto:swanphyo444@gmail.com" target="_blank">
