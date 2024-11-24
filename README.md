@@ -6,14 +6,15 @@
 
 <div align="left"><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,java,kotlin,dart,flutter,firebase,vite,git,github,vscode,androidstudio,postman,vercel,netlify,figma" />
-</div>
+</div><br>
 
 # 📊 My GitHub Stats:
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisheeesh&layout=compact&langs_count=7&theme=one_dark_pro"/>
-</div>
+    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=fisheeesh&theme=radical&hide_border=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+</div><br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/fisheeesh/fisheeesh/output/github-snake-dark.svg"/>
@@ -28,4 +29,6 @@
     <a style="text-decoration: none" href="https://www.instagram.com/fisheeeshhh/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
     </a>
-</div>
+</div><br><br>
+
+<img src="https://visitcount.itsvg.in/api?id=fisheeesh&icon=2&color=1)](https://visitcount.itsvg.in"/>
