@@ -7,7 +7,7 @@
 # 💻 Technologies and Tools:
 
 <div align="left"><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,vue,pinia,vite,react,next,java,kotlin,dart,flutter,mysql,mongodb,firebase,git,github,vscode,androidstudio,postman,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,vue,pinia,vite,react,java,kotlin,dart,flutter,mysql,mongodb,firebase,git,github,vscode,androidstudio,postman,vercel,netlify,figma" />
 </div><br>
 
 # 📊 My GitHub Stats:
