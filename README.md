@@ -14,7 +14,6 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=fisheeesh&theme=radical&hide_border=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
 </div><br>
 
@@ -31,6 +30,4 @@
     <a style="text-decoration: none" href="https://www.instagram.com/fisheeeshhh/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
     </a>
-</div><br><br>
-
-<img src="https://visitcount.itsvg.in/api?id=fisheeesh&icon=2&color=1)](https://visitcount.itsvg.in"/>
+</div>
