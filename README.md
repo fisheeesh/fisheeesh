@@ -4,17 +4,37 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Swam+Yi+Phyo(Fish).;Welcome+to+my+Github+profile!;Remember%2C+every+bit+of+effort+counts!)](https://git.io/typing-svg"/>
 </div>
 
-# 💻 Technologies and Tools:
+# Hi, I’m Fish 👋 
 
-<div align="left"><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,vue,pinia,vite,react,java,kotlin,dart,flutter,mysql,firebase,git,github,vscode,androidstudio,postman,vercel,netlify,figma" />
+I'm a passionate front-end developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into React and Next.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
+
+- 🔭 I’m currently working on my university senior project, exploring creative solutions to real-world challenges.
+- 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
+- 🌱 I’m currently learning **React.js** and **Next.js**.  
+- ⚡ Fun fact: *"The more you learn, the more you realize how little you know."* 😤
+
+# 💻 Tech Stack:
+
+<div align="left">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    
 </div><br>
 
 # 📊 My GitHub Stats:
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=fisheeesh&theme=radical&hide_border=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+<!--     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/> -->
 </div><br>
 
 <div align="center">
