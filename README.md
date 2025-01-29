@@ -28,17 +28,6 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     
-</div><br>
-
-# 📊 My GitHub Stats:
-
-<div align="left" style="display: flex; flex-wrap: wrap;">
-    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=fisheeesh&theme=radical&hide_border=true"/>
-<!--     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=fisheeesh&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/> -->
-</div><br>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/fisheeesh/fisheeesh/output/github-snake-dark.svg"/>
 </div>
     
 # 🌐 Connect With Me:
@@ -50,4 +39,8 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
     <a style="text-decoration: none" href="https://www.instagram.com/fisheeeshhh/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
     </a>
+</div><br>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/fisheeesh/fisheeesh/output/github-snake-dark.svg"/>
 </div>
