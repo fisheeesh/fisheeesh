@@ -11,7 +11,7 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
 - 🔭 I’m currently working on my university senior project, exploring creative solutions to real-world challenges.
 - 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
 - 🌱 I’m currently learning **React.js** and **Next.js**.  
-- ⚡ Fun fact: *"The more you learn, the more you realize how little you know."* 😤
+- ⚡ Fun fact: *"In modern frontend development, it is pretty common not to pass mutlitple arguments to a function, but to pass them as an object."*
 
 # 💻 Tech Stack:
 
