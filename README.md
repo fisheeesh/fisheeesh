@@ -10,7 +10,7 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
 
 - 🔭 I’m currently working on my university senior project, exploring creative solutions to real-world challenges.
 - 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
-- 🌱 I’m currently learning **React.js** and **Next.js**.  
+- 🌱 I’m currently learning **Next.js** and **Node.js**.  
 - ⚡ Fun fact: *"In modern frontend development, it is pretty common not to pass mutlitple arguments to a function, but to pass them as an object."*
 
 # 💻 Tech Stack:
@@ -22,6 +22,7 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/shadcn--ui-000000?style=for-the-badge&logo=shadcn/ui" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
