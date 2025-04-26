@@ -54,6 +54,9 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
     <a style="text-decoration: none" href="https://www.instagram.com/fisheeeshhh/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
     </a>
+    <a style="text-decoration: none" href="https://medium.com/@swanphyo444" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
 </div><br>
 
 <div align="center">
