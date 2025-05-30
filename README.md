@@ -54,11 +54,14 @@ I'm a passionate front-end developer focused on creating user-friendly and beaut
     <a style="text-decoration: none" href="mailto:swanphyo444@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
-    <a style="text-decoration: none" href="https://www.instagram.com/fisheeeshhh/" target="_blank">
+    <a style="text-decoration: none" href="https://www.instagram.com/fissheeesh/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=pink" />
     </a>
     <a style="text-decoration: none" href="https://medium.com/@swanphyo444" target="_blank">
         <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+    <a style="text-decoration: none" href="https://www.syp.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>
 </div><br>
 
