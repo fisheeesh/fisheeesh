@@ -6,7 +6,7 @@
 
 # Hi, I’m Fish 👋 
 
-I'm a passionate front-end developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into React and Next.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
+I'm a passionate full-stack web developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into Next.js and Node.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
 
 - 🔭 I’m currently working on my university senior project, exploring creative solutions to real-world challenges.
 - 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
