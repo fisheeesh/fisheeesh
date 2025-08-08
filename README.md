@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Swam+Yi+Phyo(Fish).;Welcome+to+my+Github+profile!;Remember%2C+every+bit+of+effort+counts!)](https://git.io/typing-svg"/>
 </div>
 
-# Hi, I’m Fish 👋 
+# Hi, I’m Fish 👋🏼
 
 I'm a passionate full-stack web developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into Next.js and Node.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
 
@@ -41,7 +41,7 @@ I'm a passionate full-stack web developer focused on creating user-friendly and 
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
