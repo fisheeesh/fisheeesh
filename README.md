@@ -10,7 +10,7 @@ I'm a passionate full-stack web developer focused on creating user-friendly and 
 
 - 🔭 I’m currently working on my university senior project, exploring creative solutions to real-world challenges.
 - 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
-- 🌱 I’m currently learning **Next.js** and **Node.js**.  
+- 🌱 I’m currently learning **Docker** and **Thai**.  
 - ⚡ Fun fact: *"The possibilities are endless, so just dun get overwhelmed."*
 
 # 💻 Tech Stack:
