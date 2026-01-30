@@ -7,9 +7,9 @@
 
 I'm a passionate full-stack web developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into FastAPI and Node.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
 
-- 🔭 I’m currently working on my university senior project and my internship project, exploring creative solutions to real-world challenges.
+- 🔭 I’m currently working on my internship work and advancing my skills set, exploring creative solutions to real-world challenges.
 - 👯 I’m looking to collaborate on open source projects to learn, share, and grow alongside the developer community..  
-- 🌱 I’m currently learning **FastAPI** and **Thai**.  
+- 🌱 I’m currently learning **Golang** and **Nginx**.  
 - ⚡ Fun fact: *"The possibilities are endless, so just dun get overwhelmed."*
 
 # 💻 Tech Stack:
