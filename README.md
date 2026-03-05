@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3986FA&width=435&lines=Hi%2C+everyone!+I'm+Swam+Yi+Phyo(Fish);Welcome+to+my+GitHub+profile!;Seriously%2C+I+become+a+developer;Give+me+a+fisheeeeeesh.....;Remember%2C+every+bit+of+effort+counts)](https://git.io/typing-svg"/>
 </div>
 
+
 # Hi, I’m Fish 👋🏼
 
 I'm a passionate full-stack web developer focused on creating user-friendly and beautiful web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently, I’m diving deep into FastAPI and Node.js to advance my skill set. When I’m not coding, you’ll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
