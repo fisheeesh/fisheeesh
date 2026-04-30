@@ -6,11 +6,11 @@
 
 # Hi, I’m Fish 👋🏼
 
-I'm a passionate full-stack developer focused on creating user-friendly, beautiful, and minimalist web experiences. I enjoy working with technologies like React and constantly expanding my skills. Currently working on my internship project while planning to dive deep into NestJS and Golang to push my career further than where I am today. When I'm not coding, you'll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
+I'm a passionate full-stack developer focused on creating user-friendly, beautiful, and minimalist web experiences. I enjoy working with technologies like React and constantly expanding my skills. Actively working full-time as a Full-Stack Developer, making a meaningful impact in the organization I'm part of, and continuously learning to take my career further than where I am today. When I'm not coding, you'll find me on the golf course enjoying the game I love. Always eager to learn, grow, and build amazing projects!
 
-- 🔭 I'm currently working on my internship, tackling real-world challenges and diving into things I've never known before.
+- 🔭 I'm currently grinding full-time, taking on real ownership and figuring things out as I go.
 - 👯 I'm someone who genuinely cares about clean code, minimalist design, and building things I can look back on with pride.
-- 🌱 I'm currently taking on the **#ChaiyoGCP Season 6** challenge to level up my cloud and AI/ML skills on Google Cloud.
+- 🌱 I'm currently getting more confident with FastAPI on the backend and slowly picking up Thai on the side.
 - ⚡ Fun fact: *"The possibilities are endless, so just dun get overwhelmed."*
 
 # 💻 Tech Stack:
