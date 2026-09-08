@@ -11,7 +11,7 @@ I'm a passionate full-stack developer focused on creating user-friendly, beautif
 
 - 🔭 I'm currently grinding full-time, taking on real ownership and figuring things out as I go.
 - 👯 I'm someone who genuinely cares about clean code, minimalist design, and building things I can look back on with pride.
-- 🌱 I'm currently getting more confident with FastAPI on the backend and slowly picking up Thai on the side.
+- 🌱 I'm currently doing **100 Days of DevOps** challenges to advance my skill set and slowly picking up Thai on the other side.
 - ⚡ Fun fact: *"The possibilities are endless, so just dun get overwhelmed."*
 
 # 💻 Tech Stack:
